@@ -58,7 +58,7 @@ hr {
   border: 1px solid #dfe6e9;
   border-radius: 4px;
 
-  width: 100%; /* Or a specific width like 80%, 90% */
+  width: 750px; /* Or a specific width like 80%, 90% */
   margin: 20px auto; /* Adds space above/below and centers the whole figure */
   box-sizing: border-box; /* Ensures padding doesn't add to the width */
 }
